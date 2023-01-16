@@ -1,9 +1,18 @@
 Códigos de git
+ git version - mostra a versao
 
 git --help - verificar informações do git
+
 git status - relatorio de controle de versao
+
 git add "nome completo do arquivo"
+
 atenção aos nomes em vermelho
 
 como adicionar varios docs de uma vez?
- git add .
+ git add . - salva e adiciona novos arquivos
+
+git commit -m "commit inicial" - comando que permite realizar commits de salvamento de versão, na primeira vez solicita a concatenação com a conta de email Git
+ com os comandos
+git config --global user.email "email@email.com"
+git config --global user.name "Your Name"
