@@ -1,0 +1,9 @@
+Códigos de git
+
+git --help - verificar informações do git
+git status - relatorio de controle de versao
+git add "nome completo do arquivo"
+atenção aos nomes em vermelho
+
+como adicionar varios docs de uma vez?
+ git add .
