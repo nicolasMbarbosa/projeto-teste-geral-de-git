@@ -19,3 +19,5 @@ git config --global user.name "Your Name"
 
 modificação de código e salvando novos branches
 
+git "push" que faz subir para o repositorio GIT tudo aquilo que você tem de versões salvas ou que ainda não foi salvo.
+
