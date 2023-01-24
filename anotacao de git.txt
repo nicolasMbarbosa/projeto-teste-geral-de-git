@@ -16,3 +16,6 @@ git commit -m "commit inicial" - comando que permite realizar commits de salvame
  com os comandos
 git config --global user.email "email@email.com"
 git config --global user.name "Your Name"
+
+modificação de código e salvando novos branches
+
