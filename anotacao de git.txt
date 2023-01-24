@@ -21,4 +21,15 @@ modificação de código e salvando novos branches
 
 git "push" que faz subir para o repositorio de GIT tudo aquilo que você tem de versões salvas ou que ainda não foi salvo.
 
- 
+ git reflog é o comando git que tras o historico de versoes ja salvas
+=======================================
+
+Avançado básico 
+
+	[ksksks] ---> Nicolas do futuro, não ria do meu "ksks" é só pra descontrair, seu chato!
+
+Como navegar entre versões?
+pode se usar o git reflog para ver quantas versões o código tem.
+
+e usar o "git reset --hard (código da versão que é apresentado no reflog)"
+
