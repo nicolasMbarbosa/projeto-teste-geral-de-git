@@ -33,3 +33,11 @@ pode se usar o git reflog para ver quantas versões o código tem.
 
 e usar o "git reset --hard (código da versão que é apresentado no reflog)"
 
+--------------------------------------------------------------------
+Branchs é o nome dado as linhas de versão de código
+comando 
+git branch >> nos mostra as "branchs" que existem
+
+git branch "nomealeatorio" >> comando para criar uma nova branch
+
+git checkout "nomealeatorio" >> faz o git trocar a branch em que estão seus arquivos.
