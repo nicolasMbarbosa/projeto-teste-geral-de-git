@@ -41,3 +41,8 @@ git branch >> nos mostra as "branchs" que existem
 git branch "nomealeatorio" >> comando para criar uma nova branch
 
 git checkout "nomealeatorio" >> faz o git trocar a branch em que estão seus arquivos.
+
+
+git pull atualiza os códigos
+
+git merge >> comando para unir as branchs
