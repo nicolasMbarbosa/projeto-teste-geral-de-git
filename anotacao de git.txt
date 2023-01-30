@@ -46,3 +46,5 @@ git checkout "nomealeatorio" >> faz o git trocar a branch em que estão seus arq
 git pull atualiza os códigos
 
 git merge >> comando para unir as branchs
+
+touch .gitignore >> comando para adicionar arquivos a serem ignorados pela execução de código
